@@ -1,0 +1,10 @@
+Lien ket local & github
+	git remote  add orgin https://github.com/vvthuan898/test.git
+clone git ve local
+	git clone https://github.com/vvthuan898/test.git
+Tao Add
+	git add .		git add index.html 
+Tao Commit
+	git commit -m "commit"
+Push all (da commit) len Remote	
+	git push
